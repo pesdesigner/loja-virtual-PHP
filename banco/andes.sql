@@ -4,7 +4,7 @@
  Source Server         : Local
  Source Server Type    : MySQL
  Source Server Version : 50539
- Source Host           : **********
+ Source Host           : localhost
  Source Database       : andes
 
  Target Server Type    : MySQL
