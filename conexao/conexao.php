@@ -1,8 +1,8 @@
 <?php
 //criar conexao
     $server = "localhost";
-    $user = "root";
-    $password = "";
+    $user = "****";
+    $password = "*********";
     $db = "aula_sql";
     $conn = mysqli_connect($server,$user,$password,$db);
 //testar
